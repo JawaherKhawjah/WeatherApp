@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/JawaherKhawjah/WeatherApp.git/static/css/main.d5335fca.css",
+    "main.js": "/JawaherKhawjah/WeatherApp.git/static/js/main.f14d2ed8.js",
+    "static/js/38.a0c43f1d.chunk.js": "/JawaherKhawjah/WeatherApp.git/static/js/38.a0c43f1d.chunk.js",
+    "static/media/IBMPlexSansArabic-Bold.ttf": "/JawaherKhawjah/WeatherApp.git/static/media/IBMPlexSansArabic-Bold.35193fa7059f2c23e485.ttf",
+    "static/media/IBMPlexSansArabic-SemiBold.ttf": "/JawaherKhawjah/WeatherApp.git/static/media/IBMPlexSansArabic-SemiBold.d5d8db2faffa988bafe6.ttf",
+    "static/media/IBMPlexSansArabic-Regular.ttf": "/JawaherKhawjah/WeatherApp.git/static/media/IBMPlexSansArabic-Regular.bd211734243840c34ad3.ttf",
+    "index.html": "/JawaherKhawjah/WeatherApp.git/index.html",
+    "main.d5335fca.css.map": "/JawaherKhawjah/WeatherApp.git/static/css/main.d5335fca.css.map",
+    "main.f14d2ed8.js.map": "/JawaherKhawjah/WeatherApp.git/static/js/main.f14d2ed8.js.map",
+    "38.a0c43f1d.chunk.js.map": "/JawaherKhawjah/WeatherApp.git/static/js/38.a0c43f1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5335fca.css",
+    "static/js/main.f14d2ed8.js"
+  ]
+}
